@@ -1,6 +1,6 @@
 {
-  "name": "Audit Henn",
-  "short_name": "Audit Henn",
+  "name": "Axon Conference",
+  "short_name": "Axon Conference",
   "description": "Sistema Móvel de Auditoria de Estoque por Drone/Manual",
   "start_url": "/",
   "display": "standalone",
